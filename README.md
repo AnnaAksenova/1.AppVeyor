@@ -1,1 +1,1 @@
-![Build status](https://https://ci.appveyor.com/project/AnnaAksenova/1-appveyor) 
+[![Build status](https://ci.appveyor.com/api/projects/status/23iawvg0douwh2d2?svg=true)](https://https://ci.appveyor.com/project/AnnaAksenova/1-appveyor) 
