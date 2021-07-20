@@ -1,1 +1,1 @@
-![Build status](https://ci.appveyor.com/api/projects/status/github/AnnaAksenova/1.AppVeyor?branch=master&svg=true) 
+![Build status](https://https://ci.appveyor.com/project/AnnaAksenova/1-appveyor) 
